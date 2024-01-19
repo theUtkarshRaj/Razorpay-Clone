@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fa-solid{
+    color: #b6f2a1;
+}
